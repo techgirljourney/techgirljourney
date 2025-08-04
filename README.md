@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Sofia!
 
-🧠 Self-taught tech learner | Starting my journey into Data Analytics
-📊 Exploring data, Python & spreadsheets — learning by doing
-🎥 Making videos on [Instagram](https://instagram.com/techgirljourney)
-📁 Sharing resources, notes & progress in public
+🧠 Self-taught tech learner | Starting my journey into Data Analytics  
+📊 Exploring data, Python & spreadsheets — learning by doing  
+🎥 Making videos on [Instagram](https://instagram.com/techgirljourney)  
+📁 Sharing resources, notes & progress in public  
 💫 Here to document the messy, real, beginner journey into tech  
 
 ### 🛠️ Tech Stack
