@@ -43,6 +43,5 @@ No projects yet, just a keyboard, curiosity and lots of learning. Stay tuned! ‚å
 
 ### üåê Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techgirljourney)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@techgirljourney) 
 
 [![](https://visitcount.itsvg.in/api?id=techgirljourney&icon=3&color=0)](https://visitcount.itsvg.in)
